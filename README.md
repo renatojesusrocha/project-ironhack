@@ -1,4 +1,4 @@
-# project-ironhack
+Projeto IRONHACK  - Jogo 
 Projeto Pygame - Jokenpô
 
 
